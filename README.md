@@ -17,21 +17,27 @@ After entering into the account, he will be able to choose from of the following
 Here are a few screenshots from the application usage:
 
 In this screenshot is presented the login and options.
-  ![image1](/images/image1.png)
+
+  ![](/images/image1.png)
 
  When user chooses _view_, he sees his amount.
+ 
   ![image2](/images/image2.png)
  
  When user chooses _withdraw_, he must insert the amount he wants to withdraw.
+ 
   ![image3](/images/image3.png)
  
  When user chooses _deposit_, he must insert the amount he wants to deposit.
+ 
   ![image4](/images/image4.png)
  
  When user chooses to change his password, he will be ask to introduce his _old password_ first and than the _new one_.
+ 
   ![image5](/images/image5.png)
  
  When user chooses _exit account_, he receives a message.
+ 
   ![image6](/images/image6.png)
  
  
